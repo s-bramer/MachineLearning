@@ -1,11 +1,11 @@
-<mxfile host="app.diagrams.net" modified="2023-08-09T11:36:40.243Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="RxTwxfy3pLkkYCgLJMQ7" version="21.6.6" type="github">
+<mxfile host="app.diagrams.net" modified="2023-08-09T11:43:42.822Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="nScjKw2e4Ff4EYm3BruC" version="21.6.6" type="github">
   <diagram id="6a731a19-8d31-9384-78a2-239565b7b9f0" name="Page-1">
     <mxGraphModel dx="1395" dy="-187" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="NDgvumM39dX7sZHwWWza-1544" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Machine &lt;br&gt;Learning&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#FF99FF;" parent="1" vertex="1">
-          <mxGeometry x="480" y="1110" width="196" height="196" as="geometry" />
+        <mxCell id="NDgvumM39dX7sZHwWWza-1544" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;Machine &lt;br&gt;Learning&lt;/b&gt;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#FF99FF;" parent="1" vertex="1">
+          <mxGeometry x="480" y="1120" width="196" height="196" as="geometry" />
         </mxCell>
         <mxCell id="QijNzIp1wJBTld3flyke-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="NDgvumM39dX7sZHwWWza-1545" target="NDgvumM39dX7sZHwWWza-1566">
           <mxGeometry relative="1" as="geometry" />
@@ -13,8 +13,8 @@
         <mxCell id="QijNzIp1wJBTld3flyke-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="NDgvumM39dX7sZHwWWza-1545" target="NDgvumM39dX7sZHwWWza-1567">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="NDgvumM39dX7sZHwWWza-1545" value="&lt;b&gt;Supervised&lt;br&gt;Learning&lt;/b&gt;&lt;br&gt;&lt;font style=&quot;font-size: 8px;&quot;&gt;- labelled examples&lt;br&gt;- train/test split&lt;br&gt;- predict labels of new data&lt;br&gt;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#99CCFF;" parent="1" vertex="1">
-          <mxGeometry x="411" y="1100" width="125.5" height="125.5" as="geometry" />
+        <mxCell id="NDgvumM39dX7sZHwWWza-1545" value="&lt;b&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;Supervised&lt;br&gt;Learning&lt;/font&gt;&lt;/b&gt;&lt;br&gt;&lt;font style=&quot;font-size: 8px;&quot;&gt;- labelled examples&lt;br&gt;- train/test split&lt;br&gt;- predict labels of new data&lt;br&gt;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#99CCFF;" parent="1" vertex="1">
+          <mxGeometry x="408.75" y="1097.24" width="130.5" height="130.5" as="geometry" />
         </mxCell>
         <mxCell id="QijNzIp1wJBTld3flyke-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="NDgvumM39dX7sZHwWWza-1546" target="NDgvumM39dX7sZHwWWza-1568">
           <mxGeometry relative="1" as="geometry" />
@@ -22,11 +22,11 @@
         <mxCell id="QijNzIp1wJBTld3flyke-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="NDgvumM39dX7sZHwWWza-1546" target="NDgvumM39dX7sZHwWWza-1569">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="NDgvumM39dX7sZHwWWza-1546" value="&lt;b&gt;Unsupervised Learning&lt;/b&gt;&lt;font style=&quot;font-size: 8px;&quot;&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;-no feeback/labels&lt;br&gt;- find patterns/group data&lt;br&gt;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#99FF99;" parent="1" vertex="1">
-          <mxGeometry x="616" y="1100.5" width="125" height="125" as="geometry" />
+        <mxCell id="NDgvumM39dX7sZHwWWza-1546" value="&lt;b&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;Unsupervised Learning&lt;/font&gt;&lt;/b&gt;&lt;font style=&quot;font-size: 8px;&quot;&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;-no feeback/labels&lt;br&gt;- find patterns/group data&lt;br&gt;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#99FF99;" parent="1" vertex="1">
+          <mxGeometry x="618.5" y="1098" width="130" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="NDgvumM39dX7sZHwWWza-1547" value="&lt;b&gt;Reinforcement Learning&lt;/b&gt;&lt;br&gt;&lt;font style=&quot;font-size: 8px;&quot;&gt;- repeated learning&lt;br&gt;- trial/error&lt;br&gt;-reward/penalty&lt;br&gt;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#FFCCCC;" parent="1" vertex="1">
-          <mxGeometry x="515.5" y="1260" width="125" height="125" as="geometry" />
+        <mxCell id="NDgvumM39dX7sZHwWWza-1547" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;Reinforcement Learning&lt;/b&gt;&lt;br&gt;&lt;/font&gt;&lt;font style=&quot;font-size: 8px;&quot;&gt;- repeated learning&lt;br&gt;- trial/error&lt;br&gt;-reward/penalty&lt;br&gt;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#FFCCCC;" parent="1" vertex="1">
+          <mxGeometry x="512.75" y="1260" width="130.5" height="130.5" as="geometry" />
         </mxCell>
         <mxCell id="NDgvumM39dX7sZHwWWza-1555" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;Support Vector Machines (SVM)&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="291.5" y="1054.5" width="75" height="50" as="geometry" />
@@ -35,25 +35,22 @@
           <mxGeometry x="291.5" y="1000" width="75" height="50" as="geometry" />
         </mxCell>
         <mxCell id="NDgvumM39dX7sZHwWWza-1564" value="Tree&lt;br&gt;Based&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
-          <mxGeometry x="164" y="837.5" width="162.5" height="162.5" as="geometry" />
+          <mxGeometry x="170" y="837.5" width="162.5" height="162.5" as="geometry" />
         </mxCell>
         <mxCell id="NDgvumM39dX7sZHwWWza-1553" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;Decision Trees&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="246.5" y="893.75" width="75" height="50" as="geometry" />
+          <mxGeometry x="252.5" y="893.75" width="75" height="50" as="geometry" />
         </mxCell>
         <mxCell id="NDgvumM39dX7sZHwWWza-1554" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;Random Forrest&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="171.5" y="893.75" width="75" height="50" as="geometry" />
+          <mxGeometry x="177.5" y="893.75" width="75" height="50" as="geometry" />
         </mxCell>
         <mxCell id="NDgvumM39dX7sZHwWWza-1560" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;XGBoost&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="207.75" y="931" width="75" height="50" as="geometry" />
+          <mxGeometry x="213.75" y="931" width="75" height="50" as="geometry" />
         </mxCell>
         <mxCell id="NDgvumM39dX7sZHwWWza-1551" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;Multiple Linear Regression&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="529" y="860" width="75" height="50" as="geometry" />
+          <mxGeometry x="495" y="858.5" width="75" height="50" as="geometry" />
         </mxCell>
         <mxCell id="NDgvumM39dX7sZHwWWza-1552" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;Logistic Regression&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="144" y="1137.49" width="75" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="QijNzIp1wJBTld3flyke-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.378;entryY=1.073;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="NDgvumM39dX7sZHwWWza-1566" target="QijNzIp1wJBTld3flyke-5">
-          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="QijNzIp1wJBTld3flyke-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="NDgvumM39dX7sZHwWWza-1566" target="NDgvumM39dX7sZHwWWza-1556">
           <mxGeometry relative="1" as="geometry" />
@@ -64,7 +61,12 @@
         <mxCell id="QijNzIp1wJBTld3flyke-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.75;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="NDgvumM39dX7sZHwWWza-1566" target="NDgvumM39dX7sZHwWWza-1555">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="NDgvumM39dX7sZHwWWza-1566" value="Regression&lt;br&gt;&lt;font style=&quot;font-size: 9px;&quot;&gt;Continuous output&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="QijNzIp1wJBTld3flyke-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="NDgvumM39dX7sZHwWWza-1566">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="490" y="950" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NDgvumM39dX7sZHwWWza-1566" value="&lt;font color=&quot;#ffffff&quot;&gt;&lt;b&gt;Regression&lt;/b&gt;&lt;br&gt;&lt;font style=&quot;font-size: 9px;&quot;&gt;Continuous output&lt;/font&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#6666FF;" parent="1" vertex="1">
           <mxGeometry x="414" y="1004.5" width="120" height="70.5" as="geometry" />
         </mxCell>
         <mxCell id="QijNzIp1wJBTld3flyke-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="NDgvumM39dX7sZHwWWza-1567" target="NDgvumM39dX7sZHwWWza-1555">
@@ -78,22 +80,21 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="QijNzIp1wJBTld3flyke-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="NDgvumM39dX7sZHwWWza-1567">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="244" y="1000" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="244" y="1003" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="QijNzIp1wJBTld3flyke-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="NDgvumM39dX7sZHwWWza-1567" target="NDgvumM39dX7sZHwWWza-1552">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="QijNzIp1wJBTld3flyke-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="NDgvumM39dX7sZHwWWza-1567" target="QijNzIp1wJBTld3flyke-18">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="NDgvumM39dX7sZHwWWza-1567" value="Classification&lt;br&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;Discrete output&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="246.5" y="1127.37" width="120" height="70.25" as="geometry" />
+        <mxCell id="QijNzIp1wJBTld3flyke-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="NDgvumM39dX7sZHwWWza-1567" target="NDgvumM39dX7sZHwWWza-1564">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="251" y="1127" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NDgvumM39dX7sZHwWWza-1567" value="&lt;font color=&quot;#ffffff&quot;&gt;&lt;b&gt;Classification&lt;br&gt;&lt;/b&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;Discrete output&lt;/font&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#004C99;" parent="1" vertex="1">
+          <mxGeometry x="248.5" y="1126.5" width="120" height="70.25" as="geometry" />
         </mxCell>
         <mxCell id="QijNzIp1wJBTld3flyke-28" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="NDgvumM39dX7sZHwWWza-1568" target="QijNzIp1wJBTld3flyke-1">
           <mxGeometry relative="1" as="geometry">
@@ -116,13 +117,13 @@
         <mxCell id="QijNzIp1wJBTld3flyke-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="NDgvumM39dX7sZHwWWza-1568" target="QijNzIp1wJBTld3flyke-32">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="NDgvumM39dX7sZHwWWza-1568" value="Clustering&lt;br&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;Grouping of datapoints&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="NDgvumM39dX7sZHwWWza-1568" value="&lt;b&gt;Clustering&lt;/b&gt;&lt;br&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;Grouping of datapoints&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#00CC00;" parent="1" vertex="1">
           <mxGeometry x="618.5" y="1004.5" width="120" height="70.5" as="geometry" />
         </mxCell>
         <mxCell id="QijNzIp1wJBTld3flyke-38" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="NDgvumM39dX7sZHwWWza-1569" target="QijNzIp1wJBTld3flyke-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="NDgvumM39dX7sZHwWWza-1569" value="Dimensionality Reduction&lt;br&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;Reduce number of features&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="NDgvumM39dX7sZHwWWza-1569" value="&lt;b&gt;Dimensionality Reduction&lt;/b&gt;&lt;br&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;Reduce number of features&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#006600;" parent="1" vertex="1">
           <mxGeometry x="780" y="1129.25" width="120" height="67.5" as="geometry" />
         </mxCell>
         <mxCell id="DraHBIbrYnmkfJdu0Cen-1" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;K-Means&lt;br&gt;Clustering&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -135,13 +136,13 @@
           <mxGeometry x="930" y="1133" width="90" height="60" as="geometry" />
         </mxCell>
         <mxCell id="QijNzIp1wJBTld3flyke-4" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;Polynomial&lt;br&gt;Regression&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="454" y="860" width="75" height="50" as="geometry" />
+          <mxGeometry x="420" y="858.5" width="75" height="50" as="geometry" />
         </mxCell>
         <mxCell id="QijNzIp1wJBTld3flyke-5" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;Linear Regression&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="489" y="900" width="75" height="50" as="geometry" />
+          <mxGeometry x="455" y="898.5" width="75" height="50" as="geometry" />
         </mxCell>
         <mxCell id="QijNzIp1wJBTld3flyke-18" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;Naive Bayes&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="269" y="1230" width="75" height="50" as="geometry" />
+          <mxGeometry x="271" y="1228" width="75" height="50" as="geometry" />
         </mxCell>
         <mxCell id="QijNzIp1wJBTld3flyke-31" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;Mean Shift Clustering&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="741" y="929.5" width="75" height="50" as="geometry" />
